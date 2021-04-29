@@ -1,0 +1,19 @@
+.error {
+    color: red;
+    font-size: 90%;
+}
+
+input[type="submit"]:hover {
+    background: #0165b6;
+}
+
+input[type=text],
+input[type=password],
+select {
+    border-right: 0 !important;
+}
+
+.iconParent {
+    background-color: white;
+    border-left: 0 !important;
+}
